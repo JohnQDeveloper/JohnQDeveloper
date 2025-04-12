@@ -1,4 +1,6 @@
 #!/bin/bash
+set FILTER_BRANCH_SQUELCH_WARNING=1
+
 git filter-branch --env-filter '
   author_ts="$(git show -q --format="%at" "$GIT_COMMIT")"
   committer_ts="$(git show -q --format="%ct" "$GIT_COMMIT")"
