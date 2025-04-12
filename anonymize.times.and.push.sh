@@ -1,5 +1,5 @@
 #!/bin/bash
-set FILTER_BRANCH_SQUELCH_WARNING=1
+export FILTER_BRANCH_SQUELCH_WARNING=1
 
 git filter-branch --env-filter '
   author_ts="$(git show -q --format="%at" "$GIT_COMMIT")"
@@ -8,4 +8,4 @@ git filter-branch --env-filter '
   GIT_COMMITTER_DATE="$(date -d "@$committer_ts" +"%Y-%m-%dT00:00:00 +0000")"
   ' -- --all
 
-git push --force
+#git push --force
