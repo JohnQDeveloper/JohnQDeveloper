@@ -8,4 +8,4 @@ git filter-branch -f --env-filter '
   GIT_COMMITTER_DATE="$(date -d "@$committer_ts" +"%Y-%m-%dT00:00:00 +0000")"
   ' -- --all
 
-#git push --force
+git push --force
