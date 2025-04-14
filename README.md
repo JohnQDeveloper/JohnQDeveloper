@@ -1,16 +1,18 @@
-## Hi there 👋
+# General Information
 
-<!--
-**JohnQDeveloper/JohnQDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ * [Contributing](https://www.johnqdeveloper.com/contributing/)
+ * [Contact Information](https://www.johnqdeveloper.com/contact/)
+ * [Hiring Information](https://www.johnqdeveloper.com/contact/)
+ * [Project Status Pages](https://status.johnqdeveloper.com/)
+ * [Build In Public (Dash)](https://dash.johnqdeveloper.com/)
+ * [Build In Public (Blog)](https://www.johnqdeveloper.com/)
 
-Here are some ideas to get you started:
+# Global Roadmaps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ * [Roadmap](https://roadmap.johnqdeveloper.com/current)
+ * [Backlog](https://roadmap.johnqdeveloper.com/backlog)
+ * [Icebox](https://roadmap.johnqdeveloper.com/icebox)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
