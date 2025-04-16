@@ -7,11 +7,9 @@
  * [Build In Public (Dash)](https://dash.johnqdeveloper.com/)
  * [Build In Public (Blog)](https://www.johnqdeveloper.com/)
 
-# Global Roadmaps
+### Github Project Priorities
 
- * [Roadmap](https://roadmap.johnqdeveloper.com/current)
- * [Backlog](https://roadmap.johnqdeveloper.com/backlog)
- * [Icebox](https://roadmap.johnqdeveloper.com/icebox)
+ * [Roadmap](https://roadmap.johnqdeveloper.com/)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
