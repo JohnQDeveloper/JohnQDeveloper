@@ -3,13 +3,13 @@
  * [Contributing](https://www.johnqdeveloper.com/contributing/)
  * [Contact Information](https://www.johnqdeveloper.com/contact/)
  * [Hiring Information](https://www.johnqdeveloper.com/contact/)
- * [Project Status Pages](https://status.johnqdeveloper.com/)
+ * [Project Status Pages](https://status.johnqdeveloper.com/) <- Currently offline as I have no public facing projects active
  * [Build In Public (Dash)](https://dash.johnqdeveloper.com/)
  * [Build In Public (Blog)](https://www.johnqdeveloper.com/)
 
 ### Github Project Priorities
 
- * [Roadmap](https://roadmap.johnqdeveloper.com/)
+ * Nothing is production-ready, so don't use it unless it's for learning/curiosity.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
