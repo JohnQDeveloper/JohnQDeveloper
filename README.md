@@ -4,7 +4,6 @@
  * [Contact Information](https://www.johnqdeveloper.com/contact/)
  * [Hiring Information](https://www.johnqdeveloper.com/contact/)
  * [Project Status Pages](https://status.johnqdeveloper.com/) <- Currently offline as I have no public facing projects active
- * [Build In Public (Dash)](https://dash.johnqdeveloper.com/)
  * [Build In Public (Blog)](https://www.johnqdeveloper.com/)
 
 ### Github Project Priorities
