@@ -12,9 +12,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I launched MarionetteOps.com](https://www.johnqdeveloper.com/blog/2026/jun-2026/launched-marionette-ops/)
 - [MarionetteOps Basic Plan](https://www.johnqdeveloper.com/blog/2026/may-2026/2026-microsaas-plan/)
 - [May/2026 Update](https://www.johnqdeveloper.com/blog/2026/may-2026/2026-may-update/)
 - [MAR/2026 Update](https://www.johnqdeveloper.com/blog/2026/mar-2026/2026-march-update/)
 - [Defining Success for the RoyalRoad -&gt; Kindle Unlimited LitRPG Project](https://www.johnqdeveloper.com/blog/2026/jan-2026/2026-litrpg-defining-success/)
-- [2026 Goals / Plans](https://www.johnqdeveloper.com/blog/2026/jan-2026/2026-goals/)
 <!-- BLOG-POST-LIST:END -->
